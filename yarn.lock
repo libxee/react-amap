@@ -2409,10 +2409,10 @@
   dependencies:
     raw-loader "^4.0.2"
 
-"@kkt/scope-plugin-options@6.8.2":
-  version "6.8.2"
-  resolved "https://registry.yarnpkg.com/@kkt/scope-plugin-options/-/scope-plugin-options-6.8.2.tgz#471a81396825fc6bdebd59c309224e9aa155a480"
-  integrity sha512-oe47W9+ulLpN0TOuOApGmxvEyo1MzxHOsEM7Jr7DWoTZAHFgePP6yfPLYYFGqOXuME7KPlrDfWvk0lergG76IA==
+"@kkt/scope-plugin-options@6.8.3":
+  version "6.8.3"
+  resolved "https://registry.yarnpkg.com/@kkt/scope-plugin-options/-/scope-plugin-options-6.8.3.tgz#6ce6ebd1a165122c98e0abecaf0702b97f9e40b2"
+  integrity sha512-JYES+P7FZ2CRUgqCc6BdbBm7RRJFdWrcqY2a47nr2frAHKpFyj8JJ20vJBf8kisSREi9ISCMsnn0EaDhp71YXQ==
 
 "@loadable/component@5.14.1":
   version "5.14.1"
