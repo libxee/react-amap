@@ -8693,10 +8693,10 @@ kind-of@^6.0.0, kind-of@^6.0.2:
   resolved "https://registry.yarnpkg.com/kind-of/-/kind-of-6.0.3.tgz#07c05034a6c349fa06e24fa35aa76db4580ce4dd"
   integrity sha512-dcS1ul+9tmeD95T+x28/ehLgd9mENa3LsvDTtzm3vyBEO7RPptvAD+t44WVXaUjTBRcrpFeFlC8WCruUR456hw==
 
-kkt@6.8.2:
-  version "6.8.2"
-  resolved "https://registry.yarnpkg.com/kkt/-/kkt-6.8.2.tgz#4ba6a3d43abfb1ec515444649d5d53a1304bc36b"
-  integrity sha512-Ov1/sM1m74LDlJuzCz89jzNtwhEKVq5QVtPX9wDERGecXL3nuuCLD28ZAn1HtXp54FucNtqmHGH6GHinVRXHtQ==
+kkt@6.8.3:
+  version "6.8.3"
+  resolved "https://registry.yarnpkg.com/kkt/-/kkt-6.8.3.tgz#f69cfa0809c7ec6dc2f9de3c4ac539c8a91e43ee"
+  integrity sha512-FxwroqcBNkc3ldI8NP+2ka/cISSbdlY6dPGswwWe3S0yHC7rm7dmc+EQ+SWFXhnho0XfhYmiN2SaNr0paUCrsA==
   dependencies:
     "@testing-library/jest-dom" "^5.11.9"
     "@testing-library/react" "^11.2.5"
